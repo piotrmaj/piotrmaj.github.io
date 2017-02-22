@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+title: "Test global site title"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Piotr Maj"
