@@ -7,5 +7,3 @@
     </li>
   {% endfor %}
 </ul>
-
-[test post link]({{ site.baseurl }}{% post_url test-post %})
