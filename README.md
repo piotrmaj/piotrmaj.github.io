@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Witam na blogu
+
+TESTY 123
 
 You can use the [editor on GitHub](https://github.com/piotrmaj/piotrmaj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
