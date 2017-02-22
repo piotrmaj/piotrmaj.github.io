@@ -9,3 +9,5 @@
 </ul>
 
 [test post link]({{ site.baseurl }}{% post_url 2017-02-22-test %})
+
+{% include footer.html %}
