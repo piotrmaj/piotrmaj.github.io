@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Adres: Księcia Józefa Poniatowskiego 4, 26-606 Radom\
 Nawiguj: https://maps.app.goo.gl/bS6717LD5ks68sEdA \
 Odległość do katedry: 850m, ok 3 min samochodem\
