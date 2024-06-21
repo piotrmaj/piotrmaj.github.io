@@ -30,7 +30,7 @@ Alernatywnie:
 
 1. Przybycie do kościoła na godzinę 16:00
 2. Przejazd samochodem na salę
-3. Samochód zostawiamy do rana na parkingu pod salą. Po weselu od godziny 1 do zakończenia wesela co 30-40 min będzie kursował bus do hotelu. Warto pamiętać żeby wziąć ze sobą bagaż potrzebny w hotelu oraz na poprawiny do busa. 
+3. Samochód zostawiamy do rana na parkingu pod salą. Po weselu od godziny 1 do zakończenia wesela co 30-40 min będzie kursował bus do hotelu. Warto pamiętać żeby zabrać bagaż potrzebny w hotelu oraz na poprawiny ze sobą do busa. 
 5. Rano w hotelu w godzinach XX-YY będzie wydawane śniadanie
 6. Na godzinę 13:00 pod hotel podstawimy busa, który zawiezie gości z powrotem pod salę Martimo
 
