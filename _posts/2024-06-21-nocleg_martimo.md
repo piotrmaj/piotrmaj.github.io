@@ -12,3 +12,4 @@ Katedra: [https://maps.app.goo.gl/92BUkku3Z3z5zD4x6](https://maps.app.goo.gl/92B
 * Doba hotelowa: dostaliśmy informację, że pokoje będą dostępne od rana w sobotę i prośba aby oddać klucze tuż przed poprawinami
 * Odbiór kluczy: ?????
 * Śniadanie: wydawane na sali w godzinach 09:00-11:00
+* Poprawiny: start o godzinie 13:00 w niedzielę

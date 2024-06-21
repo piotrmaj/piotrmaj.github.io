@@ -14,6 +14,7 @@ Martimo: [https://maps.app.goo.gl/jZjHpKjFwvqTCHZY7](https://maps.app.goo.gl/jZj
 * Doba hotelowa: od 13:00 w sobotę, do 13:00 w niedzielę
 * Odbiór kluczy: recepcja pracuje 24h, także klucze można odebrać w dowolnym momencie
 * Śniadanie: wydawane na stołówce na parterze w godzinach XX-YY
+* Poprawiny: start o godzinie 13:00 w niedzielę
 
 ## Nasze zalecenia
 
