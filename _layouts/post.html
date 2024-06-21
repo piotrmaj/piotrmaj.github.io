@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+    <section class="main-content">
+        {{ content | expand_urls: root_url }}
+    </section>    
+  </body>
+</html>
