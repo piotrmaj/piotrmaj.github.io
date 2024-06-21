@@ -36,6 +36,6 @@ Alernatywnie:
 6. Na godzinę 13:00 pod hotel podstawimy busa, który zawiezie gości z powrotem pod salę Martimo
 
 ## Miejsca parkingowe
-Zaznaczone na żółto - te bliżej hotelu należą do hotelu, ale nie jest ich zbyt wiele, a te na ulicy Planty są ogólnodostępne.
+Zaznaczone na żółto - te bliżej hotelu należą do hotelu, ale nie jest ich zbyt wiele, a te na ulicy Planty są ogólnodostępne. Natomiast w związku z tym, że zapewniamy przejazd z sali do hotelu a nie odwrotnie zalecamy zotawić samochody pod salą.
 ![mapka](/piotrmaj.github.io/assets/2024_06_21_15_01_13_Hotel_Poniatowski_Google_Maps.png "mapka")
 
