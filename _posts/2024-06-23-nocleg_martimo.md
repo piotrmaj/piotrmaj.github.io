@@ -11,4 +11,4 @@ Nawiguj: [https://maps.app.goo.gl/jZjHpKjFwvqTCHZY7](https://maps.app.goo.gl/jZj
 Katedra: [https://maps.app.goo.gl/92BUkku3Z3z5zD4x6](https://maps.app.goo.gl/92BUkku3Z3z5zD4x6)
 * Doba hotelowa: pokoje będą dostępne od 13:00 w sobotę i należy je zdać przed poprawinami
 * Śniadanie: wydawane na sali w godzinach 09:00-11:00
-* Poprawiny: start o godzinie 13:30 w niedzielę
+* Poprawiny: start o godzinie 13:00 w niedzielę
