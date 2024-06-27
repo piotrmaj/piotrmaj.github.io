@@ -8,11 +8,12 @@ title: "Hotel Poniatowski"
 * Adres: Księcia Józefa Poniatowskiego 4, 26-606 Radom\
 Nawiguj: [https://maps.app.goo.gl/bS6717LD5ks68sEdA](https://maps.app.goo.gl/bS6717LD5ks68sEdA)
 * Odległość do Katedry: 850m, ok 3 min samochodem\
-Katedra: [https://maps.app.goo.gl/92BUkku3Z3z5zD4x6](https://maps.app.goo.gl/92BUkku3Z3z5zD4x6)
+Katedra: [https://maps.app.goo.gl/92BUkku3Z3z5zD4x6](https://maps.app.goo.gl/92BUkku3Z3z5zD4x6)\
+Parking pod Katedrą: można zaparkować pod samą Katedrą wjeżdżając na parking od ulicy Bolesława Prusa, w okolicy jest również kilka parkingów miejskich.
 * Odległość do sali Martimo: 5.5 km, ok 12 min samochodem\
 Martimo: [https://maps.app.goo.gl/jZjHpKjFwvqTCHZY7](https://maps.app.goo.gl/jZjHpKjFwvqTCHZY7)
 * Doba hotelowa: od 13:00 w sobotę, do 13:00 w niedzielę
-* Odbiór kluczy: recepcja pracuje 24h, także klucze można odebrać w dowolnym momencie
+* Pokoje: recepcja pracuje 24h, także klucze można odebrać w dowolnym momencie; pokoje dla naszych gości są już opłacone
 * Śniadanie: wydawane na stołówce na parterze w godzinach od 7:00 do 10:00
 * Poprawiny: start o godzinie 13:00 w niedzielę
 
